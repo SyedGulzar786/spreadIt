@@ -1,11 +1,8 @@
+import AppRouter from "./config/Router"
 
 function App() {
 return (
-  <>
-  <div>
-    hello world
-  </div>
-  </>
+<AppRouter/>
 )
 }
 
